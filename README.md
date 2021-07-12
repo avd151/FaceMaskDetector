@@ -1,2 +1,4 @@
 # FaceMaskDetector
-Face Mask Detector is a Deep learning based project built using Python, Keras, OpenCV and MobileNet
+
+## Description 
+Face Mask Detector is built using Python, Keras, OpenCV and MobileNetV2 used to detect if a person is wearing mask or not
